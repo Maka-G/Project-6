@@ -225,7 +225,6 @@ li{
 	background-color: white;
 }
 .foot1{
-	
 	font-size: 12px;
 	font-family: 'Roboto', sans-serif;
 	display: inline-block;
@@ -237,5 +236,12 @@ li{
 .foot1:last-child{
 	float: right;
 	margin-right: 98px;
-
+}
+span{
+	position: absolute;
+	font-size: 14px;
+	font-family: 'Roboto', sans-serif;
+	color: #3D58A6;
+	bottom: 15px;
+	right: 15px;
 }
